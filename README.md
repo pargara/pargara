@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Guevara</h1>
 <h3 align="center">A passionate Backend developer from Colombia</h3>
 
-<p align="left"> <a href="https://twitter.com/pargara" target="blank"><img src="https://img.shields.io/twitter/follow/pargara?logo=twitter&style=for-the-badge" alt="pargara" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pargara_" target="blank"><img src="https://img.shields.io/twitter/follow/pargara?logo=twitter&style=for-the-badge" alt="pargara" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
