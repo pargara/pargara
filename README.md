@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Guevara</h1>
 <h3 align="center">A passionate Backend developer from Colombia</h3>
 
-- 👯 I’m looking to collaborate on **Ruby on Rails proyects**
+- I’m looking to collaborate on **Ruby on Rails proyects**
 
 - 📝 I regularly write articles on [pargara.me](pargara.me)
 
